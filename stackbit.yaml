@@ -32,4 +32,4 @@ models:
             label: Enable
         label: Math
       - name: weight
-        type: string
+        type: number
