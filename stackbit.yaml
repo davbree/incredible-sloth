@@ -15,5 +15,5 @@ models:
     type: page
     label: about
     fields:
-      - name: ''
+      - name: title
         type: string
