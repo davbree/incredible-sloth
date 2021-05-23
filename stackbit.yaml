@@ -20,5 +20,5 @@ models:
         label: title
       - name: date
         type: datetime
-      - name: ''
-        type: string
+      - name: draft
+        type: boolean
