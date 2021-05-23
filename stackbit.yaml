@@ -25,4 +25,5 @@ models:
         type: boolean
         label: Draft
       - name: math
-        type: string
+        type: object
+        fields: []
