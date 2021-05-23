@@ -19,4 +19,4 @@ models:
         type: string
         label: title
       - name: date
-        type: date
+        type: datetime
