@@ -44,3 +44,5 @@ models:
           fields:
             - name: name
               type: string
+            - name: ''
+              type: string
