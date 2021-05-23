@@ -26,4 +26,6 @@ models:
         label: Draft
       - name: math
         type: object
-        fields: []
+        fields:
+          - name: ''
+            type: string
