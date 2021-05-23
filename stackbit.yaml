@@ -14,5 +14,3 @@ models:
   about:
     type: page
     label: about
-    singleInstance: true
-    file: index.en.md
