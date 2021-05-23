@@ -41,4 +41,6 @@ models:
         type: list
         items:
           type: object
-          fields: []
+          fields:
+            - name: ''
+              type: string
