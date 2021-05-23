@@ -37,5 +37,5 @@ models:
         type: datetime
       - name: description
         type: string
-      - name: ''
+      - name: resources
         type: string
