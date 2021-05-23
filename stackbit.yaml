@@ -46,5 +46,5 @@ models:
               type: string
             - name: src
               type: image
-      - name: ''
+      - name: tags
         type: string
