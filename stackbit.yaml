@@ -31,5 +31,5 @@ models:
             type: boolean
             label: Enable
         label: Math
-      - name: ''
+      - name: weight
         type: string
