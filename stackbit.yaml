@@ -35,5 +35,5 @@ models:
         type: number
       - name: lastmod
         type: datetime
-      - name: ''
+      - name: description
         type: string
