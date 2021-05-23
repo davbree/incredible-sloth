@@ -38,4 +38,6 @@ models:
       - name: description
         type: string
       - name: resources
-        type: string
+        type: list
+        items:
+          type: string
