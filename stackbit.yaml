@@ -40,4 +40,5 @@ models:
       - name: resources
         type: list
         items:
-          type: string
+          type: object
+          fields: []
