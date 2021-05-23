@@ -22,5 +22,3 @@ models:
         type: datetime
       - name: draft
         type: boolean
-      - name: ''
-        type: string
