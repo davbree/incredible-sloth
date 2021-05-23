@@ -33,3 +33,5 @@ models:
         label: Math
       - name: weight
         type: number
+      - name: ''
+        type: string
