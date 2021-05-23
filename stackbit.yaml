@@ -47,4 +47,6 @@ models:
             - name: src
               type: image
       - name: tags
-        type: string
+        type: list
+        items:
+          type: string
