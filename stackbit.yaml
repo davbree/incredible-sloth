@@ -34,4 +34,4 @@ models:
       - name: weight
         type: number
       - name: lastmod
-        type: string
+        type: datetime
