@@ -33,5 +33,5 @@ models:
         label: Math
       - name: weight
         type: number
-      - name: ''
+      - name: lastmod
         type: string
