@@ -45,4 +45,4 @@ models:
             - name: name
               type: string
             - name: src
-              type: string
+              type: image
