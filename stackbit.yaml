@@ -24,5 +24,5 @@ models:
       - name: draft
         type: boolean
         label: Draft
-      - name: ''
+      - name: math
         type: string
