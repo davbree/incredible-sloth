@@ -28,4 +28,4 @@ models:
         type: object
         fields:
           - name: enable
-            type: string
+            type: boolean
