@@ -20,5 +20,9 @@ models:
         label: title
       - name: date
         type: datetime
+        label: Date
       - name: draft
         type: boolean
+        label: Draft
+      - name: ''
+        type: string
