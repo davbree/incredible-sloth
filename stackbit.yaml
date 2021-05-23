@@ -50,3 +50,5 @@ models:
         type: list
         items:
           type: string
+      - name: ''
+        type: string
