@@ -27,5 +27,5 @@ models:
       - name: math
         type: object
         fields:
-          - name: ''
+          - name: enable
             type: string
