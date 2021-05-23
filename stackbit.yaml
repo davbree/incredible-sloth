@@ -15,4 +15,4 @@ models:
     type: page
     label: about
     singleInstance: true
-    file: ''
+    file: content/about/index.en.md
