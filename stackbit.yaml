@@ -29,3 +29,7 @@ models:
         fields:
           - name: enable
             type: boolean
+            label: Enable
+        label: Math
+      - name: ''
+        type: string
